@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Souhir Arous 
+- 👋 Hello ! I’m Souhir Arous
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I'm currently a master student in Data Science
 - 💞️ I’m looking for an Internship (between 4 and 6 months)
